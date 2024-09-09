@@ -1,0 +1,65 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/viniciusleal/Library/Caches/JetBrains/Rider2023.3/resharper-host/temp/Rider/vAny/CoverageData/_PersonalApi.12768840/Snapshot/snapshot.utdcvr</s:String>
+	
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/ShowAdvancedOptions/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=455471F2_002D99EF_002D4872_002DA86F_002D2DF106CBD520/@EntryIndexedValue">637B62F0-8BDD-49F1-B130-0B71F8981FC9</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=AF987046_002D3315_002D49FD_002D80DD_002D2D5DBE8D1D02/@EntryIndexedValue">637B62F0-8BDD-49F1-B130-0B71F8981FC9</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=B85E2561_002D7CD7_002D4F74_002DA382_002D026550221278/@EntryIndexedValue">637B62F0-8BDD-49F1-B130-0B71F8981FC9</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=BA4BD8DD_002D52D7_002D4C6D_002DADE2_002DD6C3BDAC9BB3/@EntryIndexedValue">637B62F0-8BDD-49F1-B130-0B71F8981FC9</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2f7d1a80_002D34a0_002D46d3_002D9d42_002Dede8e2677c03/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Update_Should_Throw_ValidationErrorException_For_Unauthorized_User" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.UserCaseTest.Update_Should_Throw_ValidationErrorException_For_Unauthorized_User&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Persistence.Repositories.UserRepositoryTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Repositories.IUserRepositoryTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=30d06901_002De793_002D4d8d_002Db771_002D25dbab1576d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Update_Should_Throw_ValidationErrorException_For_Unauthorized_User #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.UserCaseTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Persistence.Repositories.UserRepositoryTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6641d3a2_002D9e7e_002D4dfd_002Da5c6_002D3dc4ce2860e5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FindById_Should_Return_Correct_User" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.UserCaseTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7da6e748_002D6e82_002D4a80_002D8a9e_002D0194bb30203f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FindAll_Should_Return_Correct_Users" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.UserCaseTest.FindAll_Should_Return_Correct_Users&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=808ea432_002D61b5_002D4f87_002Da4ee_002D8b49d0c4cab1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FindAll_ReturnsAllExercises" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Exercises.ExerciseCaseTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.UserCaseTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8814e77e_002D1cb8_002D4a93_002Db950_002D06d5329d8af4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UserCaseTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.UserCaseTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Exercises.ExerciseCaseTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8fab8050_002Da5c0_002D4adc_002Da072_002D179056b415b3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Update_Should_Update_User #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/viniciusleal/Documents/Github/GeekShopping/PersonalApi/Personal.Tests" Presentation="&amp;lt;Personal.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9e7d4cc8_002Dc0b3_002D49a3_002D8c30_002D53f0697a6785/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Update_Should_Update_User" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.UserCaseTest.Update_Should_Update_User&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c5ccbb7b_002Daed0_002D4e27_002Daa1f_002De231cb7ea1f9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Create_ValidUser_ReturnsUserResponseDTO" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Applications.Cases.UserCaseTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.UserLogger.UserLoggedTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Auth.AuthApplicationTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.UserCaseTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.IUserQueryTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Cases.Users.IUserCaseTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Controllers.UserControllerTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Controllers.AuthControllerTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::637B62F0-8BDD-49F1-B130-0B71F8981FC9::net7.0::Personal.Tests.Filters.ExceptionsFilterTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
